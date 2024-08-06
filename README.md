@@ -23,6 +23,21 @@ Trhis refers to data, including demographic information, that relates to:
 
 ---
 
+### 📚 What are the vocabularies?
+
+"Vocabularies" refer to structured sets of standardized terms and codes used to capture, classify, and analyze patient data. These include controlled vocabularies, terminologies, hierarchies, and ontologies, and are essential for interoperability between healthcare systems, enabling data exchange and facilitating global research.
+This practice dates back to the 1660s, as shown in the image below.
+
+>"Medical vocabularies date back to the Bills of Mortality in medieval London to manage outbreaks of plague and other diseases."
+> [The Book Of Ohdsi](https://ohdsi.github.io/TheBookOfOhdsi/StandardizedVocabularies.html)
+
+<center>
+<img src="img/vocabularies.png" alt="vocabularies" width="50%"/>
+<p> Image source: <a href ="https://ohdsi.github.io/TheBookOfOhdsi/StandardizedVocabularies.html">The Book Of Ohdsi</a></p>
+</center>
+
+---
+
 ### 🩺 AWS Comprehend Medical: Detect Entities
 
 The **detect_entities_v2** method from AWS Comprehend Medical identifies and classifies various categories of medical information within a text. Below is an image illustrating the categories detected by this method. [6]
