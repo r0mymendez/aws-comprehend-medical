@@ -99,7 +99,7 @@ source: [NBME - Score Clinical Patient Notes](https://www.kaggle.com/c/nbme-scor
 To complete this tutorial, you need to meet the following prerequisites:
 
 
-* **AWS Credentials**: You must configure the `AWS_ACCESS_KEY` and `AWS_SECRET_KEY` credentials. These are crucial for authenticating and authorizing access to AWS services.
+* **AWS Credentials**: You must configure the `AWS_ACCESS_KEY` and `AWS_SECRET_KEY` credentials. These are important for authenticating and authorizing access to AWS services.
 * **S3 Bucket**: Create an S3 bucket to store your data. In this example, we will use a bucket named `dev-medical-notes` located in the `us-east-1` region.
 * **Permissions**: Check the IAM folder in this repository for the necessary policies and permissions to apply.
 
